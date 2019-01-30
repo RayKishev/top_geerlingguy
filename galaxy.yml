@@ -1,6 +1,6 @@
 namespace: "alikins"
 name: "top_geerlingguy"
-version: "0.99.5"
+version: "0.99.6"
 description: "The most powerful collection of roles... IN THE WORLD"
 authors: ["Adrian Likins", "Jeff Geerling"]
 license: "MIT"
